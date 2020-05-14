@@ -3,7 +3,7 @@
 **Sign-language-AI-papers** is a curated list of *Sign language artificial intelligence papers* papers, articles, tutorials, slides and projects. **Star** this repository, and then you can keep abreast of the latest developments of this booming research field. Thanks to all the people who made contributions to this project. Join us and you are welcome to be a contributor.
 
 <div style="text-align: center">
-<img src="resources/img/banner.png" atl="banner"/>
+<img src="resources/img/banner.png" atl="banner" align="middle"/>
 </div>
 
 # What is Sign language AI?
