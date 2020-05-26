@@ -8,3 +8,6 @@
 
 # What is Sign language AI?
 *Sign language AI* provides methods and processes to make machine translate of Sign language available for Deaf people and researcher, to improve efficiency of intelligence research and to accelerate research on Sign language and gesture.
+
+# Projects
+[Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition](https://github.com/amorim-cleison/st-gcn-sl)
