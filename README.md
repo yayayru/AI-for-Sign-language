@@ -14,10 +14,9 @@
 + [Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition](https://github.com/amorim-cleison/st-gcn-sl)
 ### Collection
 + 2020 | 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language
-Community, Technological Challenges and Application Perspectives | LREC 2020| [`PDF`](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/SIGN2020book.pdf?fbclid=IwAR35hZtAeFl7uBCmhowQT_7wc-9fdMwejT-_3_ddCSsJjDGnUBGKdssYg3U)
+Community, Technological Challenges and Application Perspectives | LREC 2020 | [`PDF`](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/SIGN2020book.pdf?fbclid=IwAR35hZtAeFl7uBCmhowQT_7wc-9fdMwejT-_3_ddCSsJjDGnUBGKdssYg3U)
 
-
-** Other areas**
-
-- [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
-- [Awesome-AutoML](https://github.com/windmaple/awesome-AutoML)
+# Other areas
+### AutoML
++ [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
++ [Awesome-AutoML](https://github.com/windmaple/awesome-AutoML)
