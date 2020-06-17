@@ -13,6 +13,7 @@
 ### Collection
 + 2020 | 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language
 Community, Technological Challenges and Application Perspectives | LREC 2020 | [`PDF`](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/SIGN2020book.pdf?fbclid=IwAR35hZtAeFl7uBCmhowQT_7wc-9fdMwejT-_3_ddCSsJjDGnUBGKdssYg3U)
++ 2020 | 14. International Conference on Sign Language and Acquisition | ICSLA 2020 | [`Link`](https://waset.org/sign-language-and-acquisition-conference-in-june-2020-in-toronto)
 ### Articles
 + 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`Link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
 
