@@ -7,7 +7,7 @@
 </p>
 
 # What is AI for Sign language?
-*Sign language AI* provides papers, methods and processes to make machine translate of Sign language available for Deaf people and researcher, to improve efficiency of intelligence research and to accelerate research on Sign language and gesture.
+*AI for Sign language* provides papers, methods and processes to make machine translate of Sign language available for Deaf people and researcher, to improve efficiency of intelligence research and to accelerate research on Sign language and gesture.
 
 # Papers
 ### Collection
