@@ -15,11 +15,12 @@
 Community, Technological Challenges and Application Perspectives | LREC 2020 | [`PDF`](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/SIGN2020book.pdf?fbclid=IwAR35hZtAeFl7uBCmhowQT_7wc-9fdMwejT-_3_ddCSsJjDGnUBGKdssYg3U)
 + 2020 | 14. International Conference on Sign Language and Acquisition | ICSLA 2020 | [`Link`](https://waset.org/sign-language-and-acquisition-conference-in-june-2020-in-toronto)
 ### Articles
-+ 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`Link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
++ 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
 + 2016 | Journal of Intelligent Systems | Movement Epenthesis Detection for Continuous Sign Language Recognition | Ananya Choudhury
-, Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`Link`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml) [PDF](https://www.degruyter.com/downloadpdf/journals/jisys/26/3/article-p471.xml) []
+, Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`link`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml) [PDF](https://www.degruyter.com/downloadpdf/journals/jisys/26/3/article-p471.xml) []
 ## Projects
 + 2019 | Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition | [`GitHub`](https://github.com/amorim-cleison/st-gcn-sl) [`Arxiv PDF`](https://arxiv.org/abs/1901.11164) [`Arxiv PDF`](https://arxiv.org/abs/1801.07455) 
++ 2018 | Sign Language gesture recognition from video sequences | [Github](https://github.com/hthuwal/sign-language-gesture-recognition) [Springer](https://link.springer.com/chapter/10.1007/978-981-10-7566-7_63)
 
 # Papers in other areas
 ## Linguistics
