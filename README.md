@@ -17,9 +17,9 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Articles
 + 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`Link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
 + 2016 | Journal of Intelligent Systems | Movement Epenthesis Detection for Continuous Sign Language Recognition | Ananya Choudhury
-, Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`PDF`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml)
+, Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`Link`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml) [PDF](https://www.degruyter.com/downloadpdf/journals/jisys/26/3/article-p471.xml) []
 ## Projects
-+ Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition | [`GitHub`](https://github.com/amorim-cleison/st-gcn-sl)
++ 2019 | Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition | [`GitHub`](https://github.com/amorim-cleison/st-gcn-sl) [`Arxiv PDF`](https://arxiv.org/abs/1901.11164) [`Arxiv PDF`](https://arxiv.org/abs/1801.07455) 
 
 # Papers in other areas
 ## Linguistics
@@ -46,3 +46,4 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 # TODO
 - Add. About phonological processes | Linguistics of American Sign Language: An Introduction | Clayton Valli, Ceil Lucas | [Google books](https://books.google.ru/books?id=mfS3GlTLAUMC&pg=PA42&lpg=PA42&dq=movement+epenthesis+asl&source=bl&ots=QsVhQu-fDz&sig=ACfU3U0jYVizhwaKOBhv9rj7-xXLPqh-Rw&hl=ru&sa=X&ved=2ahUKEwi16K3v2JTqAhVilosKHZ2ABiUQ6AEwA3oECAoQAQ#v=onepage&q=movement%20epenthesis%20asl&f=false)
 - Change all publishing organizations and article title
+- Read about motion estimation https://www.youtube.com/watch?v=oluw16wExDY
