@@ -33,7 +33,8 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + 2018 | Исследования и разработки в области новых информационных технологий и их приложений | Корпус жестов в письменной форме как инструмент для исследования особенностей их формирования(на примере русского жестового языка) | Мясоедова М.А., Мясоедова З.П. | [`pdf`](https://cyberleninka.ru/article/n/korpus-zhestov-v-pismennoy-forme-kak-instrument-dlya-issledovaniya-osobennostey-ih-formirovaniya-na-primere-russkogo-zhestovogo-yazyka/viewer)
 
 ### Projects
-+ Sutton Sign Writing | [`GitHub`](https://slevinski.github.io/SuttonSignWriting/)
++ Sutton Sign Writing | [`Office site`](https://www.signwriting.org/) [`YouTube`](https://www.youtube.com/user/signwriting/featured)
++ Sign Writing code | [`Personal site`](https://steveslevinski.me/) [`GitHub`](https://slevinski.github.io/SuttonSignWriting/) [`YouTube`](https://www.youtube.com/channel/UCXu4AXlG0rXFtk_5SzumDow/videos)
 
 ## AI
 ### Awesome
