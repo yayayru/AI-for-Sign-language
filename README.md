@@ -19,8 +19,9 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + 2016 | Journal of Intelligent Systems | Movement Epenthesis Detection for Continuous Sign Language Recognition | Ananya Choudhury
 , Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`link`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml) [PDF](https://www.degruyter.com/downloadpdf/journals/jisys/26/3/article-p471.xml) []
 ## Projects
-+ 2019 | Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition | [`GitHub`](https://github.com/amorim-cleison/st-gcn-sl) [`Arxiv`](https://arxiv.org/abs/1901.11164) [`Arxiv`](https://arxiv.org/abs/1801.07455) 
-+ 2018 | Sign Language gesture recognition from video sequences | [`Github`](https://github.com/hthuwal/sign-language-gesture-recognition) [`Springer`](https://link.springer.com/chapter/10.1007/978-981-10-7566-7_63)
++ 2019 | Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition (Not Tested) | [`GitHub`](https://github.com/amorim-cleison/st-gcn-sl) [`Arxiv`](https://arxiv.org/abs/1901.11164) [`Arxiv`](https://arxiv.org/abs/1801.07455) 
++ 2018 | Sign Language gesture recognition from video sequences (Tested) | [`Github`](https://github.com/hthuwal/sign-language-gesture-recognition) [`Springer`](https://link.springer.com/chapter/10.1007/978-981-10-7566-7_63)
++ SigNN (Colab,OpenPose, MediaPipe) (Not tested)  | [`GitHub`](https://github.com/Gilgahex/mediapipe) 
 
 # Papers in other areas
 ## Linguistics
