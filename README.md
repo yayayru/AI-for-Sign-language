@@ -25,6 +25,8 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 
 # Papers in other areas
 ## Linguistics
+### Collection
++ 2020 | Formal and Experimental Advances in Sign Language Theory | FEAST 2020: Online | [link](https://sites.google.com/site/feastconference/home)
 ### Books
 - 2019 | Press Cambridge University | Sign Language Phonology | Brentari, D. | [`content`](https://assets.cambridge.org/97811071/13473/frontmatter/9781107113473_frontmatter.pdf) | [`index`](https://assets.cambridge.org/97811071/13473/index/9781107113473_index.pdf) | [`introduction`](https://assets.cambridge.org/97811071/13473/excerpt/9781107113473_excerpt.pdf)
 + 1998 | A Prosodic Model of Sign Language Phonology Language, Speech, and Communication| Brentari, D. | [`private cloud`](https://docviewer.yandex.ru/view/30612767/?*=CohlLapz2jq%2BBqpRKZ3tUALHWFF7InVybCI6InlhLWRpc2s6Ly8vZGlzay9MaWJyYXJ5LzBf0JDQstGC0L7RgNGLL0RpYW5lQnJlbnRhcmkvQnJlbnRhcmk5OV9Qcm9zaWNfTW9kZWwucGRmIiwidGl0bGUiOiJCcmVudGFyaTk5X1Byb3NpY19Nb2RlbC5wZGYiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjMwNjEyNzY3IiwidHMiOjE1OTI3MjU5NTM1NjgsInl1IjoiNDE5NTM2NzAxMTU5MDIwNTM4MSJ9)
