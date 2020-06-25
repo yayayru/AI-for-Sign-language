@@ -15,6 +15,7 @@
 Community, Technological Challenges and Application Perspectives | LREC 2020 | [`PDF`](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/SIGN2020book.pdf?fbclid=IwAR35hZtAeFl7uBCmhowQT_7wc-9fdMwejT-_3_ddCSsJjDGnUBGKdssYg3U)
 + 2020 | 14. International Conference on Sign Language and Acquisition | ICSLA 2020 | [`link`](https://waset.org/sign-language-and-acquisition-conference-in-june-2020-in-toronto)
 ### Articles
++ 2018 | ScienceDirect | Selfie video based continuous Indian sign language recognition system | G. AnanthRaoa P.V.V.Kishore | [`link`](https://www.sciencedirect.com/science/article/pii/S2090447917300217?via%3Dihub)
 + 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
 + 2016 | Journal of Intelligent Systems | Movement Epenthesis Detection for Continuous Sign Language Recognition | Ananya Choudhury
 , Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`link`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml) [PDF](https://www.degruyter.com/downloadpdf/journals/jisys/26/3/article-p471.xml) []
