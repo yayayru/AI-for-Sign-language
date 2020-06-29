@@ -42,6 +42,8 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + Sign Writing code | [`personal site`](https://steveslevinski.me/) [`GitHub`](https://slevinski.github.io/SuttonSignWriting/) [`YouTube`](https://www.youtube.com/channel/UCXu4AXlG0rXFtk_5SzumDow/videos)
 
 ## AI
+### Articles
++ | Arxiv | Unsupervised Learning of Video Representations using LSTMs | Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov | [`pdf`](https://arxiv.org/abs/1502.04681) [`GitHub`](https://github.com/mansimov/unsupervised-videos) [`dataset`](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
 + Awesome-AutoML | [`GitHub`](https://github.com/windmaple/awesome-AutoML)
