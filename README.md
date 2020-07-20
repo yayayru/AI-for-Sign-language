@@ -44,6 +44,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ## AI
 ### Articles
 + | Arxiv | Unsupervised Learning of Video Representations using LSTMs | Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov | [`pdf`](https://arxiv.org/abs/1502.04681) [`GitHub`](https://github.com/mansimov/unsupervised-videos) [`dataset`](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
++ | Arxiv | A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective | Yuji Roh, Geon Heo, Steven Euijong Whang, Senior Member, IEEE | [`pdf`](https://arxiv.org/pdf/1811.03402.pdf)
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
 + Awesome-AutoML | [`GitHub`](https://github.com/windmaple/awesome-AutoML)
