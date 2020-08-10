@@ -18,7 +18,10 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + 2018 | ScienceDirect | Selfie video based continuous Indian sign language recognition system | G. AnanthRaoa P.V.V.Kishore | [`link`](https://www.sciencedirect.com/science/article/pii/S2090447917300217?via%3Dihub)
 + 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
 + 2016 | Journal of Intelligent Systems | Movement Epenthesis Detection for Continuous Sign Language Recognition | Ananya Choudhury
-, Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`link`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml) [PDF](https://www.degruyter.com/downloadpdf/journals/jisys/26/3/article-p471.xml) []
+, Anjan Kumar Talukdar, Manas Kamal Bhuyan, Kandarpa Kumar Sarma [`link`](https://www.degruyter.com/view/journals/jisys/26/3/article-p471.xml) [PDF](https://www.degruyter.com/downloadpdf/journals/jisys/26/3/article-p471.xml)
+- 2018 |  | Sign Language Production using Neural Machine Translation and Generative Adversarial Networks | [`Stephanie Stoll`](https://www.cihancamgoz.com/), Necati Cihan Camgoz, Simon Hadfield, Richard Bowden | [`pdf`](http://www.cihancamgoz.com/pub/stoll2018bmvc.pdf) [`GitHub`](https://github.com/neccam/text2gloss)
+- 2017 |  | SubUNets: End-to-end Hand Shape and Continuous Sign Language Recognition | Necati Cihan Camgoz - University of Surrey, Guildford, UK; Simon Hadfield - University of Surrey, Guildford, UK; Oscar Koller - RWTH Aachen University, Germany; Richard Bowden - University of Surrey, Guildford, UK | [`GitHub`](https://github.com/neccam/SubUNets)
+
 ## Projects
 + 2019 | Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition (Not Tested) | [`GitHub`](https://github.com/amorim-cleison/st-gcn-sl) [`Arxiv`](https://arxiv.org/abs/1901.11164) [`Arxiv`](https://arxiv.org/abs/1801.07455) 
 + 2018 | Sign Language gesture recognition from video sequences (Tested) | [`Github`](https://github.com/hthuwal/sign-language-gesture-recognition) [`Springer`](https://link.springer.com/chapter/10.1007/978-981-10-7566-7_63)
@@ -46,7 +49,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + | Arxiv | Unsupervised Learning of Video Representations using LSTMs | Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov | [`pdf`](https://arxiv.org/abs/1502.04681) [`GitHub`](https://github.com/mansimov/unsupervised-videos) [`dataset`](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 + | Arxiv | A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective | Yuji Roh, Geon Heo, Steven Euijong Whang, Senior Member, IEEE | [`pdf`](https://arxiv.org/pdf/1811.03402.pdf)
 + | Arxiv | A Survey of Deep Learning for Scientific Discovery | Maithra Raghu(1,2), Eric Schmidt(1,3) - (1)Google, (2)Cornell University, (3)Schmidt Futures | [`pdf`](https://arxiv.org/pdf/2003.11755.pdf)
-- |  | Sign Language Production using Neural Machine Translation and Generative Adversarial Networks | [`Stephanie Stoll`](https://www.cihancamgoz.com/), Necati Cihan Camgoz, Simon Hadfield, Richard Bowden | [`pdf`](http://www.cihancamgoz.com/pub/stoll2018bmvc.pdf)
+
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
 + Awesome-AutoML | [`GitHub`](https://github.com/windmaple/awesome-AutoML)
