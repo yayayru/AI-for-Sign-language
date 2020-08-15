@@ -50,6 +50,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + | Arxiv | Unsupervised Learning of Video Representations using LSTMs | Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov | [`pdf`](https://arxiv.org/abs/1502.04681) [`GitHub`](https://github.com/mansimov/unsupervised-videos) [`dataset`](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 + | Arxiv | A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective | Yuji Roh, Geon Heo, Steven Euijong Whang, Senior Member, IEEE | [`pdf`](https://arxiv.org/pdf/1811.03402.pdf)
 + | Arxiv | A Survey of Deep Learning for Scientific Discovery | Maithra Raghu(1,2), Eric Schmidt(1,3) - (1)Google, (2)Cornell University, (3)Schmidt Futures | [`pdf`](https://arxiv.org/pdf/2003.11755.pdf)
+- | CBMM | Object-Oriented Deep Learning | Liao, Q, Poggio, T | [`MIT`](https://cbmm.mit.edu/publications/object-oriented-deep-learning) [`PDF`](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-070.pdf)
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
