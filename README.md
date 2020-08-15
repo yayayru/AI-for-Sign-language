@@ -60,6 +60,9 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
 
+### Course
+- Full Stack Deep Learning | [`link`](https://fullstackdeeplearning.com)
+
 # TODO
 - Add. About phonological processes | Linguistics of American Sign Language: An Introduction | Clayton Valli, Ceil Lucas | [Google books](https://books.google.ru/books?id=mfS3GlTLAUMC&pg=PA42&lpg=PA42&dq=movement+epenthesis+asl&source=bl&ots=QsVhQu-fDz&sig=ACfU3U0jYVizhwaKOBhv9rj7-xXLPqh-Rw&hl=ru&sa=X&ved=2ahUKEwi16K3v2JTqAhVilosKHZ2ABiUQ6AEwA3oECAoQAQ#v=onepage&q=movement%20epenthesis%20asl&f=false)
 - Change all publishing organizations and article title
