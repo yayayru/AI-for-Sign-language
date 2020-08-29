@@ -23,10 +23,12 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - 2017 |  | SubUNets: End-to-end Hand Shape and Continuous Sign Language Recognition | Necati Cihan Camgoz - University of Surrey, Guildford, UK; Simon Hadfield - University of Surrey, Guildford, UK; Oscar Koller - RWTH Aachen University, Germany; Richard Bowden - University of Surrey, Guildford, UK | [`GitHub`](https://github.com/neccam/SubUNets)
 - 2020 | Arxiv | Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation | Necati Cihan Camgoz(1), Oscar Koller(2), Simon Hadfield(1), Richard Bowden(1) - (1)CVSSP, University of Surrey, Guildford, UK, (2)Microsoft, Munich, Germany| [`PDF`](https://arxiv.org/pdf/2003.13830.pdf) [`GitHub`](https://github.com/neccam/slt)
 
+
 ## Projects
 + 2019 | Spatial Temporal Graph Convolutional Networks for Sign Language (ST-GCN-SL) Recognition (Not Tested) | [`GitHub`](https://github.com/amorim-cleison/st-gcn-sl) [`Arxiv`](https://arxiv.org/abs/1901.11164) [`Arxiv`](https://arxiv.org/abs/1801.07455) 
 + 2018 | Sign Language gesture recognition from video sequences (Tested) | [`Github`](https://github.com/hthuwal/sign-language-gesture-recognition) [`Springer`](https://link.springer.com/chapter/10.1007/978-981-10-7566-7_63)
 + SigNN (Colab,OpenPose, MediaPipe) (Not tested)  | [`GitHub`](https://github.com/Gilgahex/mediapipe) 
+- 2020 | BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues | [`link`](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [`GitHub`](https://github.com/gulvarol/bsl1k) [`Arxiv`](https://arxiv.org/abs/2007.12131)
 
 # Papers in other areas
 ## Linguistics
