@@ -52,9 +52,12 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + | Arxiv | Unsupervised Learning of Video Representations using LSTMs | Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov | [`pdf`](https://arxiv.org/abs/1502.04681) [`GitHub`](https://github.com/mansimov/unsupervised-videos) [`dataset`](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 + | Arxiv | A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective | Yuji Roh, Geon Heo, Steven Euijong Whang, Senior Member, IEEE | [`pdf`](https://arxiv.org/pdf/1811.03402.pdf)
 + | Arxiv | A Survey of Deep Learning for Scientific Discovery | Maithra Raghu(1,2), Eric Schmidt(1,3) - (1)Google, (2)Cornell University, (3)Schmidt Futures | [`pdf`](https://arxiv.org/pdf/2003.11755.pdf)
-- | CBMM | Object-Oriented Deep Learning | Liao, Q, Poggio, T | [`MIT`](https://cbmm.mit.edu/publi- cations/object-oriented-deep-learning) [`PDF`](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-070.pdf)
-- | Arxiv | Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates | Leslie N. Smith, Nicholay Topin | [`PDF`](https://arxiv.org/pdf/1708.07120.pdf). On the recommendation of Jeremy Howard
-- | Arxiv | Context Based Emotion Recognition using EMOTIC Dataset | Ronak Kosti, Jose M. Alvarez, Adria Recasens, Agata Lapedriza | [`PDF`](https://arxiv.org/pdf/2003.13401.pdf)
+- | CBMM | Object-Oriented Deep Learning | Liao, Q, Poggio, T | [`MIT`](https://cbmm.mit.edu/publi- cations/object-oriented-deep-learning) [`pdf`](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-070.pdf)
+- | Arxiv | Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates | Leslie N. Smith, Nicholay Topin | [`pdf`](https://arxiv.org/pdf/1708.07120.pdf). On the recommendation of Jeremy Howard
+- | Arxiv | Context Based Emotion Recognition using EMOTIC Dataset | Ronak Kosti, Jose M. Alvarez, Adria Recasens, Agata Lapedriza | [`pdf`](https://arxiv.org/pdf/2003.13401.pdf)
+- | Arxiv | Structured Query-Based Image Retrieval Using Scene Graphs | Brigit Schroeder, Subarna Tripathi | [`pdf`](https://arxiv.org/pdf/2005.06653.pdf) [`YouTube`](https://youtu.be/-wRlKWDuIXg)
+- | CVPR15 | Image Retrieval using Scene Graphs | Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei | [`Stanford`](https://cs.stanford.edu/people/jcjohns/cvpr15_supp/) [`pdf`](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph) [`GitHub from Google`](https://github.com/google/sg2im) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph)
+
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
