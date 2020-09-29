@@ -30,7 +30,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + SigNN (Colab,OpenPose, MediaPipe) (Not tested)  | [`GitHub`](https://github.com/Gilgahex/mediapipe) 
 - 2020 | BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues | [`link`](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [`GitHub`](https://github.com/gulvarol/bsl1k) [`Arxiv`](https://arxiv.org/abs/2007.12131)
 
-# AI for others
+# Other aeras
 ## Linguistics
 ### Collection
 + 2020 | Formal and Experimental Advances in Sign Language Theory | FEAST 2020: Online | [`link`](https://sites.google.com/site/feastconference/home)
