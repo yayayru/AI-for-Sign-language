@@ -30,7 +30,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + SigNN (Colab,OpenPose, MediaPipe) (Not tested)  | [`GitHub`](https://github.com/Gilgahex/mediapipe) 
 - 2020 | BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues | [`link`](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [`GitHub`](https://github.com/gulvarol/bsl1k) [`Arxiv`](https://arxiv.org/abs/2007.12131)
 
-# Papers in other areas
+# AI for others
 ## Linguistics
 ### Collection
 + 2020 | Formal and Experimental Advances in Sign Language Theory | FEAST 2020: Online | [`link`](https://sites.google.com/site/feastconference/home)
@@ -64,6 +64,8 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + Awesome-AutoML | [`GitHub`](https://github.com/windmaple/awesome-AutoML)
 + Awesome-data-labeling | [`GitHub`](https://github.com/heartexlabs/awesome-data-labeling)
 + Hand Pose Estimation | [`GitHub`](https://github.com/xinghaochen/awesome-hand-pose-estimation)
++ Awesome production machine learning | [`GitHub`](https://github.com/EthicalML/awesome-production-machine-learning#industrial-strength-visualisation-libraries)
+
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
 
