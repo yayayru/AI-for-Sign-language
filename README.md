@@ -68,7 +68,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
-+ modAL Active learning | [`Colab`](https://gist.github.com/YAYAYru/7a58fe4489f9236fcb02e45f02a5f6be) from Interactive labeling with Jupyter [`GitHub`](https://github.com/modAL-python/modAL/blob/master/docs/source/content/examples/interactive_labeling.ipynb)
++ modAL Active learning | [`GitHub`](https://github.com/modAL-python/modAL) | мой пример [`Colab`](https://gist.github.com/YAYAYru/7a58fe4489f9236fcb02e45f02a5f6be) from Interactive labeling with Jupyter [`GitHub`](https://github.com/modAL-python/modAL/blob/master/docs/source/content/examples/interactive_labeling.ipynb) | [`Arxiv`](https://arxiv.org/pdf/1805.00979.pdf)
 
 ### Course
 - Full Stack Deep Learning | [`link`](https://fullstackdeeplearning.com)
