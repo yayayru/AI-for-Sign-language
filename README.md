@@ -49,6 +49,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 
 ## AI
 ### Articles
+#### Research
 + | Arxiv | Unsupervised Learning of Video Representations using LSTMs | Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov | [`pdf`](https://arxiv.org/abs/1502.04681) [`GitHub`](https://github.com/mansimov/unsupervised-videos) [`dataset`](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 + | Arxiv | A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective | Yuji Roh, Geon Heo, Steven Euijong Whang, Senior Member, IEEE | [`pdf`](https://arxiv.org/pdf/1811.03402.pdf)
 + | Arxiv | A Survey of Deep Learning for Scientific Discovery | Maithra Raghu(1,2), Eric Schmidt(1,3) - (1)Google, (2)Cornell University, (3)Schmidt Futures | [`pdf`](https://arxiv.org/pdf/2003.11755.pdf)
@@ -57,7 +58,6 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - | Arxiv | Context Based Emotion Recognition using EMOTIC Dataset | Ronak Kosti, Jose M. Alvarez, Adria Recasens, Agata Lapedriza | [`pdf`](https://arxiv.org/pdf/2003.13401.pdf)
 - | Arxiv | Structured Query-Based Image Retrieval Using Scene Graphs | Brigit Schroeder, Subarna Tripathi | [`pdf`](https://arxiv.org/pdf/2005.06653.pdf) [`YouTube`](https://youtu.be/-wRlKWDuIXg)
 - | CVPR15 | Image Retrieval using Scene Graphs | Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei | [`Stanford`](https://cs.stanford.edu/people/jcjohns/cvpr15_supp/) [`pdf`](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph) [`GitHub from Google`](https://github.com/google/sg2im) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph)
-
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
@@ -68,7 +68,6 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
-+ modAL Active learning | [`GitHub`](https://github.com/modAL-python/modAL) | мой пример [`Colab`](https://gist.github.com/YAYAYru/7a58fe4489f9236fcb02e45f02a5f6be) from Interactive labeling with Jupyter [`GitHub`](https://github.com/modAL-python/modAL/blob/master/docs/source/content/examples/interactive_labeling.ipynb) | [`Arxiv`](https://arxiv.org/pdf/1805.00979.pdf)
 
 ### Course
 - Full Stack Deep Learning | [`link`](https://fullstackdeeplearning.com)
@@ -79,6 +78,15 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Roadmap
 - 2020 Machine Learning Roadmap | [`GitHub`](https://github.com/mrdbourke/machine-learning-roadmap) [`YouTube`](https://youtu.be/pHiMN_gy9mk)
 - Machine Learning Mindmap / Cheatsheet [`GitHub`](https://github.com/dformoso/machine-learning-mindmap)
+
+### Labeling data and active learing machine learning
++ modAL Active learning | [`GitHub`](https://github.com/modAL-python/modAL) | [`Arxiv`](https://arxiv.org/pdf/1805.00979.pdf) | мой пример [`Colab`](https://gist.github.com/YAYAYru/7a58fe4489f9236fcb02e45f02a5f6be) from Interactive labeling with Jupyter [`GitHub`](https://github.com/modAL-python/modAL/blob/master/docs/source/content/examples/interactive_labeling.ipynb)
+- Jupyanno is simple labeling data tool in Jupyter [GitHub](https://github.com/chestrays/jupyanno)
++ An Efficient Way to Label Your Images with Jupyter Notebook [TowardsDataScience](https://towardsdatascience.com/label-your-images-easily-using-this-jupyter-notebook-code-4102037b7821)
+- Label Studio(There is about Active Learning) [`GitHub`](https://github.com/heartexlabs/label-studio) [`offical`](https://www.heartex.ai/)
+- pigeonXT - Quickly annotate data in Jupyter Lab [`GitHub`](https://github.com/dennisbakhuis/pigeonXT) [`TowardsDataScience`](https://towardsdatascience.com/quickly-label-data-in-jupyter-lab-999e7e455e9e)
+
+
 
 # TODO
 - Add. About phonological processes | Linguistics of American Sign Language: An Introduction | Clayton Valli, Ceil Lucas | [Google books](https://books.google.ru/books?id=mfS3GlTLAUMC&pg=PA42&lpg=PA42&dq=movement+epenthesis+asl&source=bl&ots=QsVhQu-fDz&sig=ACfU3U0jYVizhwaKOBhv9rj7-xXLPqh-Rw&hl=ru&sa=X&ved=2ahUKEwi16K3v2JTqAhVilosKHZ2ABiUQ6AEwA3oECAoQAQ#v=onepage&q=movement%20epenthesis%20asl&f=false)
