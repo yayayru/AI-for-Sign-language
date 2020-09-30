@@ -82,7 +82,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Labeling data and active learing machine learning
 + modAL Active learning | [`GitHub`](https://github.com/modAL-python/modAL) | [`Arxiv`](https://arxiv.org/pdf/1805.00979.pdf) | мой пример [`Colab`](https://gist.github.com/YAYAYru/7a58fe4489f9236fcb02e45f02a5f6be) from Interactive labeling with Jupyter [`GitHub`](https://github.com/modAL-python/modAL/blob/master/docs/source/content/examples/interactive_labeling.ipynb)
 - Jupyanno is simple labeling data tool in Jupyter [GitHub](https://github.com/chestrays/jupyanno)
-+ An Efficient Way to Label Your Images with Jupyter Notebook [TowardsDataScience](https://towardsdatascience.com/label-your-images-easily-using-this-jupyter-notebook-code-4102037b7821)
++ An Efficient Way to Label Your Images with Jupyter Notebook [`TowardsDataScience`](https://towardsdatascience.com/label-your-images-easily-using-this-jupyter-notebook-code-4102037b7821)
 - Label Studio(There is about Active Learning) [`GitHub`](https://github.com/heartexlabs/label-studio) [`offical`](https://www.heartex.ai/)
 - pigeonXT - Quickly annotate data in Jupyter Lab [`GitHub`](https://github.com/dennisbakhuis/pigeonXT) [`TowardsDataScience`](https://towardsdatascience.com/quickly-label-data-in-jupyter-lab-999e7e455e9e)
 
