@@ -67,6 +67,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + Awesome-data-labeling | [`GitHub`](https://github.com/heartexlabs/awesome-data-labeling)
 + Hand Pose Estimation | [`GitHub`](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 + Awesome production machine learning | [`GitHub`](https://github.com/EthicalML/awesome-production-machine-learning#industrial-strength-visualisation-libraries)
++ Awesome jupyter [`GitHub`](https://github.com/markusschanta/awesome-jupyter)
 
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
