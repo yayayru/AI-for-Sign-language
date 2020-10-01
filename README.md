@@ -46,6 +46,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Projects
 + Sutton Sign Writing | [`office site`](https://www.signwriting.org/) [`YouTube`](https://www.youtube.com/user/signwriting/featured)
 + Sign Writing code | [`personal site`](https://steveslevinski.me/) [`GitHub`](https://slevinski.github.io/SuttonSignWriting/) [`YouTube`](https://www.youtube.com/channel/UCXu4AXlG0rXFtk_5SzumDow/videos)
++ Video-to-Video Synthesis | [`link`](https://tcwang0509.github.io/vid2vid/) [`GitHub`](https://github.com/NVIDIA/vid2vid)
 
 ## AI
 ### Articles
@@ -58,6 +59,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - | Arxiv | Context Based Emotion Recognition using EMOTIC Dataset | Ronak Kosti, Jose M. Alvarez, Adria Recasens, Agata Lapedriza | [`pdf`](https://arxiv.org/pdf/2003.13401.pdf)
 - | Arxiv | Structured Query-Based Image Retrieval Using Scene Graphs | Brigit Schroeder, Subarna Tripathi | [`pdf`](https://arxiv.org/pdf/2005.06653.pdf) [`YouTube`](https://youtu.be/-wRlKWDuIXg)
 - | CVPR15 | Image Retrieval using Scene Graphs | Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei | [`Stanford`](https://cs.stanford.edu/people/jcjohns/cvpr15_supp/) [`pdf`](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph) [`GitHub from Google`](https://github.com/google/sg2im) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph)
+
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
