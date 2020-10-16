@@ -90,6 +90,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + An Efficient Way to Label Your Images with Jupyter Notebook [`TowardsDataScience`](https://towardsdatascience.com/label-your-images-easily-using-this-jupyter-notebook-code-4102037b7821)
 - Label Studio(There is about Active Learning) [`GitHub`](https://github.com/heartexlabs/label-studio) [`offical`](https://www.heartex.ai/)
 - pigeonXT - Quickly annotate data in Jupyter Lab [`GitHub`](https://github.com/dennisbakhuis/pigeonXT) [`TowardsDataScience`](https://towardsdatascience.com/quickly-label-data-in-jupyter-lab-999e7e455e9e)
+- Human in the Loop: как сократить ресурсы на разметку данных [`NeuroHive`](https://neurohive.io/ru/novosti/human-in-the-loop-kak-sokratit-resursy-na-razmetku-dannyh/?fbclid=IwAR3dx3PGxsVZ3eUYdh9gyHCJsmFzApyW-V12-MeQBsaY832Fp7bRyS9tkBA)
 
 
 
