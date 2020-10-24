@@ -61,6 +61,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - | Arxiv | Context Based Emotion Recognition using EMOTIC Dataset | Ronak Kosti, Jose M. Alvarez, Adria Recasens, Agata Lapedriza | [`pdf`](https://arxiv.org/pdf/2003.13401.pdf)
 - | Arxiv | Structured Query-Based Image Retrieval Using Scene Graphs | Brigit Schroeder, Subarna Tripathi | [`pdf`](https://arxiv.org/pdf/2005.06653.pdf) [`YouTube`](https://youtu.be/-wRlKWDuIXg)
 - | CVPR15 | Image Retrieval using Scene Graphs | Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei | [`Stanford`](https://cs.stanford.edu/people/jcjohns/cvpr15_supp/) [`pdf`](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph) [`GitHub from Google`](https://github.com/google/sg2im) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph)
+- | Arxiv | A Framework For Contrastive Self-Supervised Learning And Designing A New Approach | William Falcon, Kyunghyun Cho | [`Arxiv`](https://arxiv.org/pdf/2009.00104.pdf) | Author is creator of PyTorch Lightning
 
 
 ### Awesome
@@ -91,6 +92,11 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - Label Studio(There is about Active Learning) [`GitHub`](https://github.com/heartexlabs/label-studio) [`offical`](https://www.heartex.ai/)
 - pigeonXT - Quickly annotate data in Jupyter Lab [`GitHub`](https://github.com/dennisbakhuis/pigeonXT) [`TowardsDataScience`](https://towardsdatascience.com/quickly-label-data-in-jupyter-lab-999e7e455e9e)
 - Human in the Loop: как сократить ресурсы на разметку данных [`NeuroHive`](https://neurohive.io/ru/novosti/human-in-the-loop-kak-sokratit-resursy-na-razmetku-dannyh/?fbclid=IwAR3dx3PGxsVZ3eUYdh9gyHCJsmFzApyW-V12-MeQBsaY832Fp7bRyS9tkBA)
+
+### Framework
++ PyTorch Lightning [`official`](https://www.pytorchlightning.ai/) | [`GitHub`](https://github.com/PyTorchLightning/pytorch-lightning)
+  - Seamlessly train hundreds of Machine Learning models on the cloud from your laptop [`official`](https://www.grid.ai/)
+  - Talks # 13: William Falcon; Stop engineering, start winning - How to Kaggle with PyTorch Lightning [YouTube](https://youtu.be/H3wAuZuru2c)
 
 
 
