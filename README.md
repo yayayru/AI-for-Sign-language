@@ -74,6 +74,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
+- Handshape Recognition [`GitHub`](https://github.com/okason97/handshape-recognition)
 
 ### Course
 - Full Stack Deep Learning | [`link`](https://fullstackdeeplearning.com)
