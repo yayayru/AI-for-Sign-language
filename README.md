@@ -62,7 +62,8 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - | Arxiv | Structured Query-Based Image Retrieval Using Scene Graphs | Brigit Schroeder, Subarna Tripathi | [`pdf`](https://arxiv.org/pdf/2005.06653.pdf) [`YouTube`](https://youtu.be/-wRlKWDuIXg)
 - | CVPR15 | Image Retrieval using Scene Graphs | Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei | [`Stanford`](https://cs.stanford.edu/people/jcjohns/cvpr15_supp/) [`pdf`](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph) [`GitHub from Google`](https://github.com/google/sg2im) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph)
 - | Arxiv | A Framework For Contrastive Self-Supervised Learning And Designing A New Approach | William Falcon, Kyunghyun Cho | [`Arxiv`](https://arxiv.org/pdf/2009.00104.pdf) | Author is creator of PyTorch Lightning
-
+- | Arxiv | RAFT: Recurrent All-Pairs Field Transforms for
+Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.12039.pdf) [`GitHub`](https://github.com/princeton-vl/RAFT)
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
