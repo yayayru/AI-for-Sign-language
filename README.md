@@ -72,6 +72,7 @@ Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.120
 + Hand Pose Estimation | [`GitHub`](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 + Awesome production machine learning | [`GitHub`](https://github.com/EthicalML/awesome-production-machine-learning#industrial-strength-visualisation-libraries)
 + Awesome jupyter [`GitHub`](https://github.com/markusschanta/awesome-jupyter)
++ Awesome Mobile Machine Learning [`GitHub`](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
