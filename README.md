@@ -78,6 +78,8 @@ Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.120
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
 - Handshape Recognition [`GitHub`](https://github.com/okason97/handshape-recognition)
 + t-SNE [`GitHub`](https://github.com/ShubhangiDabral13/Approaching-Any-Machine-Learning-Problems/tree/master/01).Supervised%20vs%20unsupervised%20learning/01).t-Distributed%20Stochastic%20Neighbour%20Embedding%20(t-SNE))
+- Teach sign language to AI drone [`YouTube`](https://youtu.be/dbfIFTCClQo) | Source code for simple object recognition using YOLO Darknet +
+script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCode/tello-ai-yolo/src/master/) | from [`YouTube`](https://www.youtube.com/channel/UCQam-u9KZaMSelXoJDRrYJA/featured)
 
 ### Course
 - Full Stack Deep Learning | [`link`](https://fullstackdeeplearning.com)
