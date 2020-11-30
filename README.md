@@ -48,7 +48,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Projects
 + Sutton Sign Writing | [`office site`](https://www.signwriting.org/) [`YouTube`](https://www.youtube.com/user/signwriting/featured)
 + Sign Writing code | [`personal site`](https://steveslevinski.me/) [`GitHub`](https://slevinski.github.io/SuttonSignWriting/) [`YouTube`](https://www.youtube.com/channel/UCXu4AXlG0rXFtk_5SzumDow/videos)
-+ Video-to-Video Synthesis | [`link`](https://tcwang0509.github.io/vid2vid/) [`GitHub`](https://github.com/NVIDIA/vid2vid)
+
 
 ## AI
 ### Articles
@@ -62,8 +62,11 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - | Arxiv | Structured Query-Based Image Retrieval Using Scene Graphs | Brigit Schroeder, Subarna Tripathi | [`pdf`](https://arxiv.org/pdf/2005.06653.pdf) [`YouTube`](https://youtu.be/-wRlKWDuIXg)
 - | CVPR15 | Image Retrieval using Scene Graphs | Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei | [`Stanford`](https://cs.stanford.edu/people/jcjohns/cvpr15_supp/) [`pdf`](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph) [`GitHub from Google`](https://github.com/google/sg2im) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph)
 - | Arxiv | A Framework For Contrastive Self-Supervised Learning And Designing A New Approach | William Falcon, Kyunghyun Cho | [`Arxiv`](https://arxiv.org/pdf/2009.00104.pdf) | Author is creator of PyTorch Lightning
-- | Arxiv | RAFT: Recurrent All-Pairs Field Transforms for
-Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.12039.pdf) [`GitHub`](https://github.com/princeton-vl/RAFT)
+- | Arxiv | RAFT: Recurrent All-Pairs Field Transforms for Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.12039.pdf) [`GitHub`](https://github.com/princeton-vl/RAFT)
+
+### Project
++ Video-to-Video Synthesis | [`link`](https://tcwang0509.github.io/vid2vid/) [`GitHub`](https://github.com/NVIDIA/vid2vid)
+- IPN Hand: A Video Dataset for Continuous Hand Gesture Recognition [`GiyHub.io`](https://gibranbenitez.github.io/IPN_Hand/)
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
@@ -80,6 +83,9 @@ Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.120
 + t-SNE [`GitHub`](https://github.com/ShubhangiDabral13/Approaching-Any-Machine-Learning-Problems/tree/master/01).Supervised%20vs%20unsupervised%20learning/01).t-Distributed%20Stochastic%20Neighbour%20Embedding%20(t-SNE))
 - Teach sign language to AI drone [`YouTube`](https://youtu.be/dbfIFTCClQo) | Source code for simple object recognition using YOLO Darknet +
 script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCode/tello-ai-yolo/src/master/) | from [`YouTube`](https://www.youtube.com/channel/UCQam-u9KZaMSelXoJDRrYJA/featured)
+- Yolact [`GitHub`](https://github.com/dbolya/yolact) | Yolact_minimal [`GitHub`](https://github.com/feiyuhuahuo/Yolact_minimal)
+- MANO hand model [`GitHub`](https://github.com/otaheri/MANO)
+
 
 ### Course
 - Full Stack Deep Learning | [`link`](https://fullstackdeeplearning.com)
