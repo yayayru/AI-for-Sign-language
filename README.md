@@ -85,6 +85,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCode/tello-ai-yolo/src/master/) | from [`YouTube`](https://www.youtube.com/channel/UCQam-u9KZaMSelXoJDRrYJA/featured)
 - Yolact [`GitHub`](https://github.com/dbolya/yolact) | Yolact_minimal [`GitHub`](https://github.com/feiyuhuahuo/Yolact_minimal)
 - MANO hand model [`GitHub`](https://github.com/otaheri/MANO)
+- Sign Language Recognition Using Hand Gestures [`GitHub`](https://github.com/shadabsk/Sign-Language-Recognition-Using-Hand-Gestures-Keras-PyQT5-OpenCV) [`YouTube`](https://youtu.be/vXSTZNEkHlg)
 
 
 ### Course
