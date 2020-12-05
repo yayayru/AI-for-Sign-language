@@ -97,6 +97,7 @@ script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCo
 ### Roadmap
 - 2020 Machine Learning Roadmap | [`GitHub`](https://github.com/mrdbourke/machine-learning-roadmap) [`YouTube`](https://youtu.be/pHiMN_gy9mk)
 - Machine Learning Mindmap / Cheatsheet [`GitHub`](https://github.com/dformoso/machine-learning-mindmap)
+- AI Expert Roadmap [`GitHub`](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | [`i.am.ai/roadmap`](https://i.am.ai/roadmap/#note)
 
 ### Labeling data and active learing machine learning
 + modAL Active learning | [`GitHub`](https://github.com/modAL-python/modAL) | [`Arxiv`](https://arxiv.org/pdf/1805.00979.pdf) | мой пример [`Colab`](https://gist.github.com/YAYAYru/7a58fe4489f9236fcb02e45f02a5f6be) from Interactive labeling with Jupyter [`GitHub`](https://github.com/modAL-python/modAL/blob/master/docs/source/content/examples/interactive_labeling.ipynb)
