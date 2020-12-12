@@ -64,9 +64,14 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - | Arxiv | A Framework For Contrastive Self-Supervised Learning And Designing A New Approach | William Falcon, Kyunghyun Cho | [`Arxiv`](https://arxiv.org/pdf/2009.00104.pdf) | Author is creator of PyTorch Lightning
 - | Arxiv | RAFT: Recurrent All-Pairs Field Transforms for Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.12039.pdf) [`GitHub`](https://github.com/princeton-vl/RAFT)
 
+### Paper
+- Machine Learning: Detecting Dropped Pacifiers [`medium`](https://medium.com/swlh/machine-learning-detecting-dropped-pacifiers-c9bfab80934e) 
+
 ### Project
 + Video-to-Video Synthesis | [`link`](https://tcwang0509.github.io/vid2vid/) [`GitHub`](https://github.com/NVIDIA/vid2vid)
 - IPN Hand: A Video Dataset for Continuous Hand Gesture Recognition [`GiyHub.io`](https://gibranbenitez.github.io/IPN_Hand/)
+- PrototypeML: Powerful & Intuitive Visual Neural Network Design Platform for PyTorch [`offical`](https://prototypeml.com/)
+- DeepStack AI Server Open Source: Build and deploy AI powered applications with in-built and custom AI APIs, all offline and Self-Hosted [`offical`](https://deepstack.cc/)|[`deepquestai.com`](https://deepquestai.com/) | [`medium`](https://medium.com/deepquestai/deepstack-ai-server-now-open-source-a0a35e53bd51)
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
