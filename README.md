@@ -23,7 +23,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - 2017 |  | SubUNets: End-to-end Hand Shape and Continuous Sign Language Recognition | Necati Cihan Camgoz - University of Surrey, Guildford, UK; Simon Hadfield - University of Surrey, Guildford, UK; Oscar Koller - RWTH Aachen University, Germany; Richard Bowden - University of Surrey, Guildford, UK | [`GitHub`](https://github.com/neccam/SubUNets)
 - 2020 | Arxiv | Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation | Necati Cihan Camgoz(1), Oscar Koller(2), Simon Hadfield(1), Richard Bowden(1) - (1)CVSSP, University of Surrey, Guildford, UK, (2)Microsoft, Munich, Germany| [`PDF`](https://arxiv.org/pdf/2003.13830.pdf) [`GitHub`](https://github.com/neccam/slt)
 + 2020 | Arxiv | Real-Time Sign Language Detection using Human Pose Estimation | Amit Moryossef, Ioannis Tsochantaridis, Roee Aharoni, Sarah Ebling, Srini Narayanan | [`PDF`](https://arxiv.org/pdf/2008.04637.pdf) | [YouTube](https://youtu.be/nozz2pvbG_Q) | [`Google`](https://ai.googleblog.com/2020/10/developing-real-time-automatic-sign.html?m=1&fbclid=IwAR17_UhSHS22k39OVY7Y54ahYTgpYr38rFEC-expsxjtuOruIINWEUrtqyg) | [`GitHub`](https://github.com/AmitMY/sign-language-detector) | [`Google GitHub`](https://github.com/google-research/google-research/tree/master/sign_language_detection) | Sign Language Processing [`GitHub`](https://amitmy.github.io/sign-language-processing/)
-
+- Predict & Cluster [`GitHub`](https://github.com/shlizee/Predict-Cluster)
 
 
 ## Projects
