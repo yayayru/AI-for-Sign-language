@@ -117,10 +117,10 @@ script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCo
 + PyTorch Lightning [`official`](https://www.pytorchlightning.ai/) | [`GitHub`](https://github.com/PyTorchLightning/pytorch-lightning)
   - Seamlessly train hundreds of Machine Learning models on the cloud from your laptop [`official`](https://www.grid.ai/)
   - Talks # 13: William Falcon; Stop engineering, start winning - How to Kaggle with PyTorch Lightning [YouTube](https://youtu.be/H3wAuZuru2c)
-
+- Lightly: Lightly is a computer vision framework for self-supervised learning [`lightly.ai`]([`https://www.lightly.ai/`]) [`GitHub`](https://github.com/lightly-ai/lightly) 
 
 
 # TODO
-- Add. About phonological processes | Linguistics of American Sign Language: An Introduction | Clayton Valli, Ceil Lucas | [Google books](https://books.google.ru/books?id=mfS3GlTLAUMC&pg=PA42&lpg=PA42&dq=movement+epenthesis+asl&source=bl&ots=QsVhQu-fDz&sig=ACfU3U0jYVizhwaKOBhv9rj7-xXLPqh-Rw&hl=ru&sa=X&ved=2ahUKEwi16K3v2JTqAhVilosKHZ2ABiUQ6AEwA3oECAoQAQ#v=onepage&q=movement%20epenthesis%20asl&f=false)
+- Add. About phonological processes | Linguistics of American Sign Language: An Introduction | Clayton Valli, Ceil Lucas | [Google books](https://books.google.ru/books?id=mfS3GlTLAUMC&pg=PA42&lpg=PA42&dq=movement+epenthesis+asl&source=bl&ots=QsVhQu-fDz&sig=ACfU3U0jYVizhwaKOBhv9rj7-xXLPqh-Rw&hl=ru&sa=X&ved=2ahUKEwi16K3v2JTqAhVilosKHZ2ABiUQ6AEwA3oECAoQAQ#v=onepage&q=movement%20epenthesis%20asl&f=false) 
 - Change all publishing organizations and article title
 - Read about motion estimation https://www.youtube.com/watch?v=oluw16wExDY
