@@ -48,6 +48,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Projects
 + Sutton Sign Writing | [`office site`](https://www.signwriting.org/) [`YouTube`](https://www.youtube.com/user/signwriting/featured)
 + Sign Writing code | [`personal site`](https://steveslevinski.me/) [`GitHub`](https://slevinski.github.io/SuttonSignWriting/) [`YouTube`](https://www.youtube.com/channel/UCXu4AXlG0rXFtk_5SzumDow/videos)
++ Sign Language Recognition: Video Understanding through Deep Learning | [`docs`](https://docs.google.com/presentation/d/1KSgJM4jUusDoBsyTuJzTsLIoxWyv6fbBzojI38xYXsc/edit#slide=id.gc6f9e470d_0_0) | [`GitHub`](https://github.com/FrederikSchorr/sign-language)
 
 
 ## AI
