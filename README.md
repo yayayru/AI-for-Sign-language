@@ -82,6 +82,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + Awesome production machine learning | [`GitHub`](https://github.com/EthicalML/awesome-production-machine-learning#industrial-strength-visualisation-libraries)
 + Awesome jupyter [`GitHub`](https://github.com/markusschanta/awesome-jupyter)
 + Awesome Mobile Machine Learning [`GitHub`](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
++ Awesome production machine learning [`GitHub`](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
