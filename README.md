@@ -94,6 +94,7 @@ script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCo
 - MANO hand model [`GitHub`](https://github.com/otaheri/MANO)
 - Sign Language Recognition Using Hand Gestures [`GitHub`](https://github.com/shadabsk/Sign-Language-Recognition-Using-Hand-Gestures-Keras-PyQT5-OpenCV) [`YouTube`](https://youtu.be/vXSTZNEkHlg)
 - AI Experiments [`experiments.withgoogle.com/`](https://experiments.withgoogle.com/collection/ai)
+- Semantic Shapes: Custom Semantic Segmentation Tutorial/ Pipeline [`GitHub`](https://github.com/seth814/Semantic-Shapes)
 
 
 ### Course
