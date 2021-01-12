@@ -87,7 +87,6 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
 - Handshape Recognition [`GitHub`](https://github.com/okason97/handshape-recognition)
-+ t-SNE [`GitHub`](https://github.com/ShubhangiDabral13/Approaching-Any-Machine-Learning-Problems/tree/master/01).Supervised%20vs%20unsupervised%20learning/01).t-Distributed%20Stochastic%20Neighbour%20Embedding%20(t-SNE))
 - Teach sign language to AI drone [`YouTube`](https://youtu.be/dbfIFTCClQo) | Source code for simple object recognition using YOLO Darknet +
 script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCode/tello-ai-yolo/src/master/) | from [`YouTube`](https://www.youtube.com/channel/UCQam-u9KZaMSelXoJDRrYJA/featured)
 - Yolact [`GitHub`](https://github.com/dbolya/yolact) | Yolact_minimal [`GitHub`](https://github.com/feiyuhuahuo/Yolact_minimal)
