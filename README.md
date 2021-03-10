@@ -96,6 +96,7 @@ script to slice video into images [`BitBucket`](https://bitbucket.org/RobotAndCo
 - AI Experiments [`experiments.withgoogle.com/`](https://experiments.withgoogle.com/collection/ai)
 - Semantic Shapes: Custom Semantic Segmentation Tutorial/ Pipeline [`GitHub`](https://github.com/seth814/Semantic-Shapes) | Custom Semantic Segmentation Tutorial [`YouTube`](https://www.youtube.com/watch?v=-Z7Sx2sS8z8&list=PLhA3b2k8R3t3zhbjDmqHudUTZqvRdELgd)
 - Video to 3DPose and Bvh motion file [`GitHub`](https://github.com/HW140701/VideoTo3dPoseAndBvh)
+- GestureRecognition [GitHub](https://github.com/nicknochnack/GestureRecognition) | CustomGestureRecognition [Github](https://github.com/nicknochnack/CustomGestureRecognition)
 
 
 ### Course
