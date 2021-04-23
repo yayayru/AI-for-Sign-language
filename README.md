@@ -9,12 +9,12 @@
 # What is AI for Sign language?
 *AI for Sign language* provides papers, methods and processes to make machine translate of Sign language available for Deaf people and researcher, to improve efficiency of intelligence research and to accelerate research on Sign language and gesture.
 
-## Papers
+## Paper
 ### Collection
 + 2020 | 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language
 Community, Technological Challenges and Application Perspectives | LREC 2020 | [`PDF`](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/SIGN2020book.pdf?fbclid=IwAR35hZtAeFl7uBCmhowQT_7wc-9fdMwejT-_3_ddCSsJjDGnUBGKdssYg3U)
 + 2020 | 14. International Conference on Sign Language and Acquisition | ICSLA 2020 | [`link`](https://waset.org/sign-language-and-acquisition-conference-in-june-2020-in-toronto)
-### Articles
+### Article
 + 2018 | ScienceDirect | Selfie video based continuous Indian sign language recognition system | G. AnanthRaoa P.V.V.Kishore | [`link`](https://www.sciencedirect.com/science/article/pii/S2090447917300217?via%3Dihub)
 + 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
 + 2016 | Journal of Intelligent Systems | Movement Epenthesis Detection for Continuous Sign Language Recognition | Ananya Choudhury
@@ -24,6 +24,10 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - 2020 | Arxiv | Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation | Necati Cihan Camgoz(1), Oscar Koller(2), Simon Hadfield(1), Richard Bowden(1) - (1)CVSSP, University of Surrey, Guildford, UK, (2)Microsoft, Munich, Germany| [`PDF`](https://arxiv.org/pdf/2003.13830.pdf) [`GitHub`](https://github.com/neccam/slt)
 + 2020 | Arxiv | Real-Time Sign Language Detection using Human Pose Estimation | Amit Moryossef, Ioannis Tsochantaridis, Roee Aharoni, Sarah Ebling, Srini Narayanan | [`PDF`](https://arxiv.org/pdf/2008.04637.pdf) | [YouTube](https://youtu.be/nozz2pvbG_Q) | [`Google`](https://ai.googleblog.com/2020/10/developing-real-time-automatic-sign.html?m=1&fbclid=IwAR17_UhSHS22k39OVY7Y54ahYTgpYr38rFEC-expsxjtuOruIINWEUrtqyg) | [`GitHub`](https://github.com/AmitMY/sign-language-detector) | [`Google GitHub`](https://github.com/google-research/google-research/tree/master/sign_language_detection) | Sign Language Processing [`GitHub`](https://amitmy.github.io/sign-language-processing/)
 - Predict & Cluster [`GitHub`](https://github.com/shlizee/Predict-Cluster)
+- Video-to-HamNoSys Automated Annotation System [aclweb.org](https://www.aclweb.org/anthology/2020.signlang-1.34.pdf) [GitHub](https://github.com/vskobov/video_to_hamnosys)
+- Automatic Alignment of HamNoSys Subunits for Continuous Sign Language Recognition [www-i6.informatik.rwth-aachen.de/](https://www-i6.informatik.rwth-aachen.de/publications/download/999/KollerOscarNeyHermannBowdenRichard--AutomaticAlignmentofHamNoSysSubunitsforContinuousSignLanguageRecognition--2016.pdf)
+### Book
+- HamNoSys based Sign Language Generation System  [Amazon](https://www.amazon.com/HamNoSys-based-Language-Generation-System/dp/3330044098)
 
 
 ## Projects
