@@ -37,10 +37,10 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - 2020 | BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues | [`link`](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [`GitHub`](https://github.com/gulvarol/bsl1k) [`Arxiv`](https://arxiv.org/abs/2007.12131)
 
 # Other aeras
-## Linguistics
+## Linguistic
 ### Collection
-+ 2020 | Formal and Experimental Advances in Sign Language Theory | FEAST 2020: Online | [`link`](https://sites.google.com/site/feastconference/home)
-### Books
++ 2020 | Formal and Experimental Advances in Sign Language Theory | FEAST 2020: Online | [`sites.google.com`](https://sites.google.com/site/feastconference/home)
+### Book
 - 2019 | Press Cambridge University | Sign Language Phonology | Brentari, D. | [`content`](https://assets.cambridge.org/97811071/13473/frontmatter/9781107113473_frontmatter.pdf) | [`index`](https://assets.cambridge.org/97811071/13473/index/9781107113473_index.pdf) | [`introduction`](https://assets.cambridge.org/97811071/13473/excerpt/9781107113473_excerpt.pdf)
 + 1998 | A Prosodic Model of Sign Language Phonology Language, Speech, and Communication| Brentari, D. | [`private cloud`](https://docviewer.yandex.ru/view/30612767/?*=CohlLapz2jq%2BBqpRKZ3tUALHWFF7InVybCI6InlhLWRpc2s6Ly8vZGlzay9MaWJyYXJ5LzBf0JDQstGC0L7RgNGLL0RpYW5lQnJlbnRhcmkvQnJlbnRhcmk5OV9Qcm9zaWNfTW9kZWwucGRmIiwidGl0bGUiOiJCcmVudGFyaTk5X1Byb3NpY19Nb2RlbC5wZGYiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjMwNjEyNzY3IiwidHMiOjE1OTI3MjU5NTM1NjgsInl1IjoiNDE5NTM2NzAxMTU5MDIwNTM4MSJ9)
 
@@ -48,6 +48,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + 2019 | Исследования и разработки в области новых информационных технологий и их приложений | Межъязыковые особенности жестовых языков(на материале жестов в знаковой форме) | Мясоедова М.А., Мясоедова З.П. | [`PDF`](https://cyberleninka.ru/article/n/mezhyazykovye-osobennosti-zhestovyh-yazykov-na-materiale-zhestov-v-znakovoy-forme/viewer)
 + 2018 | Modern Information Technologies and IT-Education | Жестовые нотации и их сравнительный анализ | Мясоедова М.А., Мясоедова З.П. | [`pdf`](https://cyberleninka.ru/article/n/zhestovye-notatsii-i-ih-sravnitelnyy-analiz/viewer)
 + 2018 | Исследования и разработки в области новых информационных технологий и их приложений | Корпус жестов в письменной форме как инструмент для исследования особенностей их формирования(на примере русского жестового языка) | Мясоедова М.А., Мясоедова З.П. | [`pdf`](https://cyberleninka.ru/article/n/korpus-zhestov-v-pismennoy-forme-kak-instrument-dlya-issledovaniya-osobennostey-ih-formirovaniya-na-primere-russkogo-zhestovogo-yazyka/viewer)
+- Units in the analisis of signs [https://harry-van-der-hulst.uconn.edu/](https://harry-van-der-hulst.uconn.edu/wp-content/uploads/sites/1733/2016/05/051-Units-in-the-analysis-of-sign.pdf)
 - 2021 |  Learn OpenCV | Introduction to Video Classification and Human Activity Recognition [`learnopencv.com`](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
 
 
