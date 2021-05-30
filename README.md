@@ -51,12 +51,16 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - Units in the analisis of signs [https://harry-van-der-hulst.uconn.edu/](https://harry-van-der-hulst.uconn.edu/wp-content/uploads/sites/1733/2016/05/051-Units-in-the-analysis-of-sign.pdf)
 - 2021 |  Learn OpenCV | Introduction to Video Classification and Human Activity Recognition [`learnopencv.com`](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
 
-
-
 ### Projects
 + Sutton Sign Writing | [`office site`](https://www.signwriting.org/) [`YouTube`](https://www.youtube.com/user/signwriting/featured)
 + Sign Writing code | [`personal site`](https://steveslevinski.me/) [`GitHub`](https://slevinski.github.io/SuttonSignWriting/) [`YouTube`](https://www.youtube.com/channel/UCXu4AXlG0rXFtk_5SzumDow/videos)
 + Sign Language Recognition: Video Understanding through Deep Learning | [`docs`](https://docs.google.com/presentation/d/1KSgJM4jUusDoBsyTuJzTsLIoxWyv6fbBzojI38xYXsc/edit#slide=id.gc6f9e470d_0_0) | [`GitHub`](https://github.com/FrederikSchorr/sign-language)
+
+### Q&A
+- Как правильно лингвистически назвать движения рук, когда они только поднимаются от корпуса тела, чтобы показать жест и опускаются уже после показа жеста? Между несколькими жестами есть “переходные жесты” - это понятно. А вот при исполнении одного жеста.
+  - Начальное - это подготовительное движение. Конечное, когда рука возвращается в исходное положение, -- нет специального термина. Но вообще можно использовать термины из лингвистики звуковых языков, обозначающие фазы артикуляции звука. Здесь, по сути, ведь то же самое: 1. Экскурсия( подготовка органов к артикуляции). 2. Выдержка(фаза артикуляции). 3. Рекурсия(возврат органов артикуляции в исходное положение).
+
+
 
 
 ## AI
