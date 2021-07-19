@@ -76,7 +76,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - | CVPR15 | Image Retrieval using Scene Graphs | Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei | [`Stanford`](https://cs.stanford.edu/people/jcjohns/cvpr15_supp/) [`pdf`](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph) [`GitHub from Google`](https://github.com/google/sg2im) [`GitHub`](https://github.com/vishwajeet97/multimodal-scene-graph)
 - | Arxiv | A Framework For Contrastive Self-Supervised Learning And Designing A New Approach | William Falcon, Kyunghyun Cho | [`Arxiv`](https://arxiv.org/pdf/2009.00104.pdf) | Author is creator of PyTorch Lightning
 - | Arxiv | RAFT: Recurrent All-Pairs Field Transforms for Optical Flow | Zachary Teed, Jia Deng | [`Arxiv`](https://arxiv.org/pdf/2003.12039.pdf) [`GitHub`](https://github.com/princeton-vl/RAFT)
-
+- | Arxiv | Synthetic Data for Deep Learning| Sergey I. Nikolenko | [`GitHub`](https://arxiv.org/pdf/1909.11512.pdf)
 ### Paper
 - Machine Learning: Detecting Dropped Pacifiers [`medium`](https://medium.com/swlh/machine-learning-detecting-dropped-pacifiers-c9bfab80934e) 
 
