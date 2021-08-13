@@ -35,6 +35,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + 2018 | Sign Language gesture recognition from video sequences (Tested) | [`Github`](https://github.com/hthuwal/sign-language-gesture-recognition) [`Springer`](https://link.springer.com/chapter/10.1007/978-981-10-7566-7_63)
 + SigNN (Colab,OpenPose, MediaPipe) (Not tested)  | [`GitHub`](https://github.com/Gilgahex/mediapipe) 
 - 2020 | BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues | [`link`](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [`GitHub`](https://github.com/gulvarol/bsl1k) [`Arxiv`](https://arxiv.org/abs/2007.12131)
+- 2017 | sign2text | [GitHub](https://github.com/BelalC/sign2text)
 
 # Other aeras
 ## Linguistic
@@ -97,7 +98,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + Awesome production machine learning [`GitHub`](https://github.com/EthicalML/awesome-production-machine-learning)
 - Awesome AI Guidelines [`GitHub`](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 - Awesome gesture recognition [GitHub](https://github.com/ChanChiChoi/awesome-Gesture-Recognition)
-
+- Awesome Spark [GitHub](https://github.com/awesome-spark/awesome-spark)
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
 - Handshape Recognition [`GitHub`](https://github.com/okason97/handshape-recognition)
