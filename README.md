@@ -29,6 +29,9 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - Automatic Alignment of HamNoSys Subunits for Continuous Sign Language Recognition [www-i6.informatik.rwth-aachen.de/](https://www-i6.informatik.rwth-aachen.de/publications/download/999/KollerOscarNeyHermannBowdenRichard--AutomaticAlignmentofHamNoSysSubunitsforContinuousSignLanguageRecognition--2016.pdf)
 ### Book
 - HamNoSys based Sign Language Generation System  [Amazon](https://www.amazon.com/HamNoSys-based-Language-Generation-System/dp/3330044098)
+- Sign Language Translation Using Multi Context Transformer [https://link.springer.com/](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) [GitHub](https://github.com/MBadriNarayanan/MultiContextTransformer) От Максима Бакаева
+- Progressive Transformers for End-to-End Sign Language Production [arxiv.org](https://arxiv.org/abs/2004.14874) [link.springer.com/](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_40) [Progressive Transformers for End-to-End Sign Language Production](https://github.com/BenSaunders27/ProgressiveTransformersSLP) От Максима Бакаева
+
 
 
 ## Projects
