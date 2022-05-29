@@ -27,6 +27,8 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - Predict & Cluster [`GitHub`](https://github.com/shlizee/Predict-Cluster)
 - Video-to-HamNoSys Automated Annotation System [aclweb.org](https://www.aclweb.org/anthology/2020.signlang-1.34.pdf) [GitHub](https://github.com/vskobov/video_to_hamnosys)
 - Automatic Alignment of HamNoSys Subunits for Continuous Sign Language Recognition [www-i6.informatik.rwth-aachen.de/](https://www-i6.informatik.rwth-aachen.de/publications/download/999/KollerOscarNeyHermannBowdenRichard--AutomaticAlignmentofHamNoSysSubunitsforContinuousSignLanguageRecognition--2016.pdf) [YouTube](https://youtu.be/C_n-rhL4cTA)|[YouTube](https://youtu.be/h7NH6v2kEAM)
+- 2018|Sign Language Production using Neural Machine Translation and Generative Adversarial Networks|Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden|[cihancamgoz.com](https://www.cihancamgoz.com/pub/stoll2018bmvc.pdf)|[github](https://github.com/neccam/text2gloss)
+- 2021|Fingerspelling Detection in American Sign Language|Bowen Shi, Diane Brentari, Greg Shakhnarovich, Karen Livescu|[arxiv](https://arxiv.org/pdf/2104.01291.pdf)|[github](https://github.com/chevalierNoir/FS-Detection)
 ### Book
 - HamNoSys based Sign Language Generation System  [Amazon](https://www.amazon.com/HamNoSys-based-Language-Generation-System/dp/3330044098)
 - Sign Language Translation Using Multi Context Transformer [https://link.springer.com/](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) [GitHub](https://github.com/MBadriNarayanan/MultiContextTransformer) От Максима Бакаева
