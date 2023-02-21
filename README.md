@@ -16,6 +16,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + 2020 | 14. International Conference on Sign Language and Acquisition | ICSLA 2020 | [`link`](https://waset.org/sign-language-and-acquisition-conference-in-june-2020-in-toronto)
 - 2020 | 1st International Workshop on Automatic Translation for Sign and Spoken Languages | I:\Cloud\Yandex\YandexDisk\Library\0_Авторы\КлезовичАнна\2021.mtsummit-at4ssl.pdf
 ### Article
+- 2019 | Arxiv | Neural Sign Language Translation based on Human Keypoint Estimation | Sang-Ki Ko, Chang Jo Kim, Hyedong Jung, Choongsang Cho [arxiv.org](https://arxiv.org/abs/1811.11436)
 + 2018 | ScienceDirect | Selfie video based continuous Indian sign language recognition system | G. AnanthRaoa P.V.V.Kishore | [`link`](https://www.sciencedirect.com/science/article/pii/S2090447917300217?via%3Dihub)
 + 2018 | frontier | Visual Iconicity Across Sign Languages: Large-Scale Automated Video Analysis of Iconic Articulators and Locations | Robert Östling, Carl Börstell, Servane Courtaux | [`link`](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00725/full)
 + 2016 | Journal of Intelligent Systems | Movement Epenthesis Detection for Continuous Sign Language Recognition | Ananya Choudhury
