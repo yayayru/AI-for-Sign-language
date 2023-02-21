@@ -67,6 +67,9 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 + Sign Writing code | [`personal site`](https://steveslevinski.me/) [`GitHub`](https://slevinski.github.io/SuttonSignWriting/) [`YouTube`](https://www.youtube.com/channel/UCXu4AXlG0rXFtk_5SzumDow/videos)
 + Sign Language Recognition: Video Understanding through Deep Learning | [`docs`](https://docs.google.com/presentation/d/1KSgJM4jUusDoBsyTuJzTsLIoxWyv6fbBzojI38xYXsc/edit#slide=id.gc6f9e470d_0_0) | [`GitHub`](https://github.com/FrederikSchorr/sign-language)
 - Symbol Font for ASL. How can you read and write American Sign Language? [github.io](https://aslfont.github.io/Symbol-Font-For-ASL/elements-of-asl.html)
+- Multi-modal Ensemble
+  - Arxiv.org | Skeleton Aware Multi-modal Sign Language Recognition | Songyao Jiang, Bin Sun, Lichen Wang, Yue Bai, Kunpeng Li, Yun Fu [arxiv.org](https://arxiv.org/abs/2103.08833) | [github](https://github.com/jackyjsy/CVPR21Chal-SLR/)
+  - Arxiv.org | Sign Language Recognition via Skeleton-Aware Multi-Model Ensemble | Songyao Jiang, Bin Sun, Lichen Wang, Yue Bai, Kunpeng Li, Yun Fu [arxiv.org](https://arxiv.org/abs/2110.06161) | [github](https://github.com/jackyjsy/SAM-SLR-v2)
 
 ### Q&A
 - Как правильно лингвистически назвать движения рук, когда они только поднимаются от корпуса тела, чтобы показать жест и опускаются уже после показа жеста? Между несколькими жестами есть “переходные жесты” - это понятно. А вот при исполнении одного жеста.
@@ -110,6 +113,8 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - Awesome AI Guidelines [`GitHub`](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 - Awesome gesture recognition [GitHub](https://github.com/ChanChiChoi/awesome-Gesture-Recognition)
 - Awesome Spark [GitHub](https://github.com/awesome-spark/awesome-spark)
+- Awesome Dataset Tools [github](https://github.com/jsbroks/awesome-dataset-tools)
+- Awesome Sign Language Rcognition and Sign Language Translation [github](https://github.com/jackyjsy/awesome-sign-language-recognition)
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
 - Handshape Recognition [`GitHub`](https://github.com/okason97/handshape-recognition)
