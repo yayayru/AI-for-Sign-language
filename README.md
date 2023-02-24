@@ -31,6 +31,10 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - 2018|Sign Language Production using Neural Machine Translation and Generative Adversarial Networks|Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden|[cihancamgoz.com](https://www.cihancamgoz.com/pub/stoll2018bmvc.pdf)|[github](https://github.com/neccam/text2gloss)
 - 2021|Fingerspelling Detection in American Sign Language|Bowen Shi, Diane Brentari, Greg Shakhnarovich, Karen Livescu|[arxiv](https://arxiv.org/pdf/2104.01291.pdf)|[github](https://github.com/chevalierNoir/FS-Detection)
 - 2022|Classification of Phonological Parameters in Sign Languages|[arxiv.org](https://arxiv.org/abs/2205.12072)
+- 2020 | Phonologically-meaningful Subunits for Deep Learning-based Sign Language Recognition | Mark Borg, Kenneth P. Camilleri [pdf](https://slrtp.com/papers/full_papers/SLRTP.FP.02.012.paper.pdf) from [Pedro Dal Bianco](https://arxiv.org/abs/2211.15481)
+- 2022 | LSA-T: The first continuous Argentinian Sign Language dataset for Sign Language Translation | Pedro Dal Bianco, Gastón Ríos, Franco Ronchetti, Facundo Quiroga, Oscar Stanchi, Waldo Hasperué, Alejandro Rosete
+| [arxiv.org](https://arxiv.org/abs/2211.15481)
+- 2022 | Keypoint based Sign Language Translation without Glosses | Youngmin Kim, Minji Kwak, Dain Lee, Yeongeun Kim, Hyeongboo Baek | [arxiv.org](https://arxiv.org/abs/2204.10511) from from [Pedro Dal Bianco](https://arxiv.org/abs/2211.15481)
 ### Book
 - HamNoSys based Sign Language Generation System  [Amazon](https://www.amazon.com/HamNoSys-based-Language-Generation-System/dp/3330044098)
 - Sign Language Translation Using Multi Context Transformer [https://link.springer.com/](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25) [GitHub](https://github.com/MBadriNarayanan/MultiContextTransformer) От Максима Бакаева
