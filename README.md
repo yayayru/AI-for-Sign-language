@@ -119,6 +119,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - Awesome Spark [GitHub](https://github.com/awesome-spark/awesome-spark)
 - Awesome Dataset Tools [github](https://github.com/jsbroks/awesome-dataset-tools)
 - Awesome Sign Language Rcognition and Sign Language Translation [github](https://github.com/jackyjsy/awesome-sign-language-recognition)
+- Awesome open data-centric AI [github](https://github.com/Renumics/awesome-open-data-centric-ai)
 ### Demo
 + Try out deep learning models online on Colab with a single click | [`GitHub`](https://github.com/tugstugi/dl-colab-notebooks)
 - Handshape Recognition [`GitHub`](https://github.com/okason97/handshape-recognition)
