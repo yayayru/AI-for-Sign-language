@@ -104,6 +104,7 @@ Community, Technological Challenges and Application Perspectives | LREC 2020 | [
 - IPN Hand: A Video Dataset for Continuous Hand Gesture Recognition [`GiyHub.io`](https://gibranbenitez.github.io/IPN_Hand/)
 - PrototypeML: Powerful & Intuitive Visual Neural Network Design Platform for PyTorch [`offical`](https://prototypeml.com/)
 - DeepStack AI Server Open Source: Build and deploy AI powered applications with in-built and custom AI APIs, all offline and Self-Hosted [`offical`](https://deepstack.cc/)|[`deepquestai.com`](https://deepquestai.com/) | [`medium`](https://medium.com/deepquestai/deepstack-ai-server-now-open-source-a0a35e53bd51)
+- MotionGPT: Human Motion as Foreign Language [offical](https://motion-gpt.github.io/) | [Arxiv](https://arxiv.org/pdf/2306.14795.pdf) | [GitHub](https://github.com/openmotionlab/motiongpt) | [dataset](https://paperswithcode.com/dataset/amass) | 
 
 ### Awesome
 + Awesome-AutoML-Papers | [`GitHub`](https://github.com/hibayesian/awesome-automl-papers)
